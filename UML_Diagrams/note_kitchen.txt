@@ -1,0 +1,3 @@
+There is a question in the assignment: "Is the kitchen an entity that you need to model in your class design?"
+
+Our answer is that it does not neccessarily has to be there, but we included it. Our reasoning behind is that the cooks would have a display in the kitchen where they could make orders as finished. So that display would mostly be interacting with the Kitchen class.
